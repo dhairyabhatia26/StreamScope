@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.controls { margin: 10px 0 20px; display: flex; gap: 10px; }
+input { padding: 10px; width: 320px; }
+button { padding: 10px 14px; cursor: pointer; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ddd; padding: 10px; vertical-align: top; }
+th { background: #f4f4f4; text-align: left; }
