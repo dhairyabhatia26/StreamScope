@@ -1,4 +1,4 @@
-# StreamScope — Netflix Content Intelligence Dashboard
+# StreamScope: Netflix Content Intelligence Dashboard
 
 A full-stack Business Intelligence platform that analyzes the Netflix content catalog using data cleaning, MySQL storage, REST APIs, interactive visualizations, and BI-ready exports.
 
