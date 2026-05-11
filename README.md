@@ -192,7 +192,7 @@ This project demonstrates:
 ## Project Structure
 
 ```
-webscrape-dashboard/
+StreamScope/
 ├── backend/
 │   ├── __init__.py
 │   ├── api.py              # FastAPI endpoints (15 routes)
