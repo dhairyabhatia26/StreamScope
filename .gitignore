@@ -1,5 +1,20 @@
+# Environment / secrets
 .env
+
+# Python
 venv/
 __pycache__/
 *.pyc
+*.pyo
+
+# Exports
 exports/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+*.Zone.Identifier

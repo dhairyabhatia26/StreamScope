@@ -1,0 +1,15 @@
+# StreamScope — Netflix Content Intelligence Dashboard
+# Python dependencies
+
+# Web framework
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Database
+mysql-connector-python>=8.0.0
+
+# Data processing
+pandas>=2.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
